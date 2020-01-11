@@ -7,7 +7,11 @@
 # RV Nav
 RV Nav is the project I am currently working on.  It is a "Build On" application where RV users can input the dimensions of their RVs and get a route that is safe from low clearences. 
 
-So far my largest contribution to this app is adding the ability to sign up and sign in with Google and Facebook.
+So far my largest contribution to this app is adding the ability to sign up and sign in with Google and Facebook.  So far the largest challenge I had to face was tying together our existing custom backend and firebase.
+
+<p align="center">
+<img src="Images/RVNavSignUpSignInGoogleGIF.gif" width="230"  title="SignUp/SignIn With Google">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/RVNavSignUpSignInFacebookGIF.gif" width="230" title="SignUp/SignIn With Facebook">
+</p>
 
 # Fowl Weather
 <a href="https://github.com/alexnrhodes">Fowl Weather</a> is an app that gets the current weather of your location or a location of your choice. All while giving you your daily dose of laughter from a dad joke!
@@ -15,7 +19,7 @@ So far my largest contribution to this app is adding the ability to sign up and 
 I had a reall good time working on this project with my partner <a href="https://github.com/alexnrhodes">Alex Rhodes</a>.  For this project I primarily handled the backend fuctionality.  I had to hit two different APIs to get the weather and the dad joke at the same time while ensuring we were thread safe.  I used <a href="https://developer.apple.com/documentation/dispatch/dispatchgroup">DispatchGroup</a> to help me achive that.  I also had a lot of fun working with <a href="https://developer.apple.com/documentation/corelocation">CoreLocation</a> and <a href="https://developer.apple.com/documentation/corelocation/clgeocoder">CLGeocoder</a> to get the users current and or searched locations.
 
 <p align="center">
-  <img src="Images/mockupFowlWeather copy.png" width"230" title="Fowl Weather">
+  <img src="Images/mockupFowlWeathercopy.png" width"230" title="Fowl Weather">
 </p>
 
 ## Thanks for checking out my Profile!
