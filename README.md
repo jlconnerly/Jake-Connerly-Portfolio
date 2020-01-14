@@ -25,10 +25,10 @@ I had a really good time working on this project with my partner <a href="https:
 # Guidr
 <a href="https://github.com/bw-guidr/guidr-ios">Guidr</a> is an app for outdoor guides to keep track of their personal and professional trips!
 
-This project my primary focus was building out the UI.  I worked closely with our team member <a href="https://github.com/marlonjames71">Marlon Raskin</a> who is a UI MONSTER!  Everytime we work together, I make sure I am "drooling" over his shoulder in efforts to absorb some of his talents.  The features I am most proud of on this one is implementing a <a href="https://developer.apple.com/documentation/uikit/uicollectionview">UICollectionView</a> and having it flow effortlessly with a <a href="https://developer.apple.com/documentation/coredata/nsfetchedresultscontroller">NSFetchedResultsController</a>.  Also pictured in the gif, utilizing a modal segue to present a <a href="https://developer.apple.com/documentation/uikit/uidatepicker">UIDatePicker</a> was fun, interesting and I LOVE how it turned out!
+This project my primary focus was building out the UI.  I worked closely with our team member <a href="https://github.com/marlonjames71">Marlon Raskin</a> who is a UI MONSTER!  Everytime we work together, I make sure I am "drooling" over his shoulder in efforts to absorb some of his talents.  The features I am most proud of on this one is implementing a <a href="https://developer.apple.com/documentation/uikit/uicollectionview">UICollectionView</a> and having it flow effortlessly with a <a href="https://developer.apple.com/documentation/coredata/nsfetchedresultscontroller">NSFetchedResultsController</a>.
 
 <p align="center">
-<img src="Images/GuiderTours.png" width="230"  title="Tours Collection View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/GuidrProfile.png" width="230" title="Profile View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/GuiderPopupGIF.gif" width="230" title="Date Popup View">
+<img src="Images/GuiderTours.png" width="230"  title="Tours Collection View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/GuidrProfile.png" width="230" title="Profile View">
 </p>
 
 ## Thanks for checking out my Profile!
