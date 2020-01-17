@@ -7,10 +7,10 @@
 # RV Nav
 RV Nav is the project I am currently working on.  It is a "Build On" application where RV users can input the dimensions of their RVs and get a route that is safe from low clearences. 
 
-So far my largest contribution to this app is adding the ability to sign up and sign in with Google and Facebook.  The largest challenge I had to face was tying together our existing custom backend and firebase.
+So far my largest contribution to this app is adding the ability to sign up and sign in with Google and Facebook.  The largest challenge I had to face was tying together our existing custom backend and firebase.  Also, I implemented the custom view to present when a user is selecting an RV type.
 
 <p align="center">
-<img src="Images/RVNavSignUpSignInGoogleGIF.gif" width="230"  title="SignUp/SignIn With Google">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/RVNavSignUpSignInFacebookGIF.gif" width="230" title="SignUp/SignIn With Facebook">
+<img src="Images/ShortVehicleFormGIF.gif" width="230"  title="SignUp/SignIn With Google">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/RVNavSignUpSignInGoogleGIF.gif" width="230"  title="SignUp/SignIn With Google">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/RVNavSignUpSignInFacebookGIF.gif" width="230" title="SignUp/SignIn With Facebook">
 </p>
 
 # Fowl Weather
